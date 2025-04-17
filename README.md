@@ -1,12 +1,12 @@
 Reconhecimentos e Direitos Autorais\
-@autor: Filipe das Chagas Pinheiro/
-@contato: filipe.pinheiro@discente.ufma.br
-@data última versão: 17/04/2025
-@versão: 1.0
-@outros repositórios: https://github.com/filipe-pinheiro?tab=repositories
-@Agradecimentos: Universidade Federal do Maranhão (UFMA), Professor Doutor
-Thales Levi Azevedo Valente, e colegas de curso.
-Copyright/License
+@autor: Filipe das Chagas Pinheiro\
+@contato: filipe.pinheiro@discente.ufma.br\
+@data última versão: 17/04/2025\
+@versão: 1.0\
+@outros repositórios: https://github.com/filipe-pinheiro?tab=repositories\
+@Agradecimentos: Universidade Federal do Maranhão (UFMA), Professor Doutor\
+Thales Levi Azevedo Valente, e colegas de curso.\
+Copyright/License\
 Este material é resultado de um trabalho acadêmico para a disciplina
 TÓPICOS EM ENGENHARIA DA COMPUTAÇÃO II - FUNDAMENTOS DE REDES NEURAIS, sob a orientação do professor Dr. THALES LEVI
 AZEVEDO VALENTE, semestre letivo 2025.1, curso Engenharia da Computação,
