@@ -1,4 +1,4 @@
-Reconhecimentos e Direitos Autorais/
+Reconhecimentos e Direitos Autorais/ 
 @autor: Filipe das Chagas Pinheiro/
 @contato: filipe.pinheiro@discente.ufma.br
 @data última versão: 17/04/2025
